@@ -5,3 +5,6 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
 
 ## Notas
 Pueden hacer lo que quieran...
+
+### Haciendo cambios Desde GitHub
+Demo para aprender a hacer un forework
